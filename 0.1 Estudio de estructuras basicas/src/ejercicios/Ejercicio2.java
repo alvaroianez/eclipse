@@ -19,7 +19,7 @@ public class Ejercicio2 {
 			System.out.println("Primo");
 		else
 		System.out.println("NO es primo");
-		
+		//Prueba practica
 		
 		
 	}
